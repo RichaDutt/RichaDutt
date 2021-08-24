@@ -1,7 +1,7 @@
 ## Hi there, I'm Richa 👋 <img align="center" alt="codeSTACKr.com" width="32px" src="https://cdn.freebiesupply.com/images/thumbs/2x/florida-gators-logo.png" />
 
 #### I'm a Machine learning PhD Researcher at University of Florida. 
-- 🔭 I'm working as a Graduate Research Assistant in [```UF ESSIE Department```](https://www.essie.ufl.edu/ ).
+- 🔭 I'm working as a Graduate Research Assistant in UF Ploticial Science Department.
 - 🔭  I’m interested in HyperSpectral Imaging.
 - 🌱  I like to write ✍ blogs on how to work with Hyperspectral data on Medium. Check out my medium profile [Here](https://richadutt.medium.com/). 
 
